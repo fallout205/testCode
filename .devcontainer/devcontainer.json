@@ -1,0 +1,4 @@
+{
+  "name": "WebRTC Build Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04"  
+}
